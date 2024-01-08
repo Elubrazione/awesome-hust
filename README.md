@@ -148,6 +148,10 @@ ERP与供应链 [ttzztztz_2021年春](https://github.com/ttzztztz/sse-erp)
 
 工程实训 [ttzztztz_IT技术论坛](https://github.com/UniqueStudio/UniqueBBS)
 
+### CSE 通用
+
+网安大多数课程的代码/报告 [ZCXu1](https://github.com/ZCXu1/HUST-CSE-Experiments) 
+
 ### CSE 大一
 
 C语言程序设计实验 [jingfelix-2020](https://github.com/jingfelix/HUST-C-Programming-language)  [tttturtle-2021](https://github.com/loveforzx/tttturtle-2021)
@@ -200,7 +204,7 @@ Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/t
 
 开源的有线校园网认证工具 [minieap](https://github.com/updateing/minieap) [mentohust(ArchWiki)](https://wiki.archlinux.org/index.php/MentoHUST_%28%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%29)
 
-开源的无线校园网认证工具 [hust-login(with RSA support, only python script usable)](https://github.com/Cra1gTucker/hust-login) [hust\_wireless.sh-用于低性能设备的精简版(密码未加密，不推荐)](https://github.com/recolic/awesome-hust/blob/master/res/hust_wireless.sh) [HUST-login(bash script单文件版，支持RSA加密)](https://github.com/185264646/HUST-login) [hust-network-login-esp （适合不能刷固件的路由器使用，密码未加密）](https://github.com/vaaandark/hust-network-login-esp)
+开源的无线校园网认证工具 [hust-login(with RSA support, only python script usable)](https://github.com/Cra1gTucker/hust-login) [hust\_wireless.sh-用于低性能设备的精简版(密码未加密，不推荐)](https://github.com/recolic/awesome-hust/blob/master/res/hust_wireless.sh) [HUST-login(bash script单文件版，支持RSA加密)](https://github.com/185264646/HUST-login) [hust-network-login-esp （适合不能刷固件的路由器使用，支持 RSA 加密）](https://github.com/vaaandark/hust-network-login-esp)
 
 华科电费相关 [在线查询(仅校园网)](http://202.114.18.218/main.aspx) [在线查询与充值(仅校园网)](http://sdhq.hust.edu.cn/ICBS/mobileweb/html/index.html)
 
@@ -233,6 +237,8 @@ Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic
 ### 全校通用
 
 [华中科技大学OEI&SES飞跃手册](https://hust-feiyue.github.io)
+
+[华中科技大学计算机类飞跃手册(2023年秋)](https://hustcsrun.gitbook.io/23fall)
 
 ## 捐助
 
